@@ -3,11 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'lib-franco-libreria',
   imports: [],
-  template: `
-    <p>
-      franco-libreria works!
-    </p>
-  `,
+  templateUrl: `./franco-libreria.component.html`,
   styles: ``
 })
 export class FrancoLibreria {
